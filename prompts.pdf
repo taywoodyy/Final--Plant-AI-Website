@@ -1,0 +1,80 @@
+## Prompts Used for Project Generation
+
+Here are the prompts used to guide the AI in generating the PlantPal project.
+
+### 1.  Comprehensive Software Development Project Plan
+
+**Prompt:**
+
+"Create a comprehensive software development project plan for a website called 'PlantPal'. The website should provide users with basic care information for a variety of plants. Follow all stages of the Software Development Life Cycle (SDLC) and include detailed specifications for each stage.
+
+**Specifically:**
+
+* **Project Planning:**
+    * Define project goals, scope, objectives, target audience, stakeholders, timeline, milestones, feasibility analysis (technical and economic), and deliverables.
+* **Requirements Gathering:**
+    * Gather and document functional and non-functional requirements. The website should include:
+        * Search functionality with a prominent search bar.
+        * A predefined list of 100 common flowers (provide the list).
+        * A display area for plant care information (watering frequency, light requirements, soil type) or an error message if the plant is not found.
+        * A 'Home' button to return to the initial state.
+* **Use Case Definition:**
+    * Define at least three use cases (e.g., searching for a plant, using the Home button, handling a plant not found) with detailed descriptions and diagrams.
+* **System and UI Design:**
+    * Design the system architecture (frontend/backend components), create UI wireframes/mockups, and specify technologies (HTML, CSS, JavaScript, backend framework). Address usability, accessibility, and responsiveness.
+* **User Personas:**
+    * Create at least two user personas with names, ages, technical skills, goals, and pain points.
+* **Code Implementation:**
+    * Generate well-structured and commented code for the frontend and backend, implementing all required functionality and including basic error handling.
+* **Test Scripts:**
+    * Generate test scripts with test cases and expected results for all core functionality (search, Home button, error handling, responsiveness).
+* **Documentation:**
+    * Generate a comprehensive README.md file, a planning.md file with all non-code content, and a prompts.pdf file.
+* **Contracts and Artifacts:**
+    * Generate a basic project contract and any other relevant artifacts like a data dictionary.
+* **Deployment:**
+    * Provide instructions and files for deploying the frontend on Netlify and the backend on Vultr (or suggest alternatives).
+
+The AI should provide detailed outputs for each of these sections."
+
+### 2.  JSON List of 100 Common Flowers
+
+**Prompt:**
+
+"Provide a JSON list of 100 common flowers, including their common names. This list will be used as the database for the PlantPal website."
+
+### 3.  Detailed Prompt for Home Button and Search
+
+**Prompt:**
+
+"Generate a detailed prompt to ensure the 'PlantPal' website includes a prominently displayed 'Home' button on the results page. The prompt should also specify that the website must allow users to search for plant information using a text input field and display the search results dynamically."
+
+### 4.  SDLC Stages for PlantPal
+
+**Prompt:**
+
+"Incorporate the following Software Development Life Cycle (SDLC) stages into the project plan for the 'PlantPal' website. The AI should generate detailed content for each stage, as outlined below:
+
+* Project planning
+* Requirements gathering
+* Use case definition
+* System and UI design
+* User personas
+* Code implementation
+* Test scripts
+* Documentation
+* Contracts and any additional relevant artifacts
+
+The AI should also generate a README.md file with a project title, description, functional documentation, and placeholders for visuals/diagrams. Additionally, create a markdown file ('planning.md') for all AI-generated non-code content and a PDF ('prompts.pdf') containing the prompts used."
+
+### 5.  Alternative Unique Names
+
+**Prompt:**
+
+"Suggest several alternative unique names for a website that helps users find basic care information for their plants. Provide a list of at least 10 alternative names."
+
+### 6.  More Unique and Creative Names
+
+**Prompt:**
+
+"Generate more unique and creative names for a plant care website, avoiding common terms like 'plant' and 'garden' if possible. Provide a list of at least 10 alternative names."
